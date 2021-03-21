@@ -1,0 +1,21 @@
+---
+title: Implementation Tools
+---
+
+- Benefits of Job Shadowing
+- Business Data Collection Sheet
+- Customer Promise and Guarantee Program
+- Employer Partner Intake Form
+- Employer Partner Meeting Outline
+- Employer Satisfaction Survey
+- Employer Partner Vacancy Intake Form
+- Identifying Target Audience
+- Job Shadow Assessment
+- Job Shadow Manual
+- Labour Market Research Questionnaire
+- Module Development Template
+- Program Design Advisory Committee 
+- Letter of Invitation
+- Terms of Partnership Template
+- Tips on Building Partnerships
+- Training Curriculum Design Template

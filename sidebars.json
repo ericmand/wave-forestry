@@ -1,6 +1,27 @@
 {
   "someSidebar": {
-    "Docusaurus": ["doc1", "doc2", "doc3"],
-    "Features": ["mdx"]
+    "Introduction": [
+      "introduction",
+      "the-wave-model",
+      "wave-success",
+      "about-the-toolkit",
+      "how-to-use-the-toolkit",
+      "replicating-wave"
+    ],
+    "Designing": [
+      "introduction-principles",
+      "the-wave-way",
+      "implementation-tools",
+      "lessons-learned-tips",
+      "wave-support",
+      "additional-resources" 
+    ],
+    "Implementing": [
+      "finding-applicants",
+      "screening-assessment",
+      "training-delivery",
+      "job-matching",
+      "alumni-support"
+    ]
   }
 }
