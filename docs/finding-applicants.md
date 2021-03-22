@@ -187,7 +187,8 @@ Tracking data is important. The following steps will guide you on how to start t
    on all candidates)
 5. Analyze data
 6. Use data to guide next steps and decisions
-   :::
+
+:::
 
 ## The WAVE Way
 
