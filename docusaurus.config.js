@@ -110,7 +110,7 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/img/docusaurus.png',
+            href: '/img/wave-logo.png',
           },
           {
             tagName: 'link',
