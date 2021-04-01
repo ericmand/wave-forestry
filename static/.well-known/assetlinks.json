@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.wave_forestry.twa",
+      "sha256_cert_fingerprints": [
+        "5F:62:1F:1F:D0:61:78:37:CA:CB:DD:34:EB:B4:86:0D:D4:3A:F1:42:40:23:02:4B:4D:82:85:55:57:86:62:CB"
+      ]
+    }
+  }]
